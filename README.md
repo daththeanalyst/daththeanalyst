@@ -1,7 +1,4 @@
 ## Hi there 👋
-
-
-- 🔭 
-- 🌱 I’m currently learning Data Science & Data Analytics
-- 👯 
+I’m currently learning Data Science & Data Analytics
+   
 
