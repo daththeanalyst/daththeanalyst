@@ -13,41 +13,27 @@ With a passion for uncovering insights through data, I specialize in leveraging 
 
 ---
 
-## 🌟 Highlights  
-- **Experience**:  
-  - Developed predictive analytics models and optimized inventory processes as a **Data Analyst** at International Celebrity Brands.  
-  - Co-founded and streamlined operations for Syndesis, a WISP entrepreneurial venture.  
-  - Conducted market research and designed processes to ensure smooth startup operations.  
+### **Programming**  
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+- ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white)  
 
-- **Projects**:  
-  - Analyzed **cultural differences** using frameworks like Hofstede’s dimensions, highlighting their implications for business operations and decision-making.  
-  - Explored **AI in Management**, focusing on its impact on recruitment and ethical considerations like transparency and bias.
+### **Visualization**  
+- ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)  
 
-- **Technical Skills**:  
-  - **Programming**: SQL, Python, Java, R
-  - **Visualization**: Power BI, Tableau  
-  - **Business Tools**: Advanced Excel, SoftOne ERP  
-  - **Research and Planning**: Literature reviews, market analysis, and mixed-methods research  
-
----
-
-## 🌱 Currently Learning  
-- **Advanced Machine Learning** techniques  
-- **Cloud Computing** and its integration with data analytics  
-- Learning about **data pipelines** for analytics projects  
-
----
+### **Business Tools**  
+- ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 ## 🎯 Goals  
 My short-term goal is to pursue a **Master’s in Business Analytics** at a top-tier university, like Imperial College, to further hone my analytical and machine learning expertise.  
 Long-term, I aspire to contribute to leading companies at the forefront of **AI-powered business solutions**, driving innovation and efficiency.
 
 ---
-
 ## 📬 Let’s Connect!  
 I’m always eager to connect with fellow enthusiasts, collaborate on projects, or just chat about the latest in **data science** and **AI**!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dimitriosath/ "Click to visit my LinkedIn profile")  
-
 ---
 
