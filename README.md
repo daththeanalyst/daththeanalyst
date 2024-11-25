@@ -18,7 +18,7 @@ Long-term, I aspire to contribute to leading companies at the forefront of **AI-
 ## 📬 Let’s Connect!  
 I’m always eager to connect with fellow enthusiasts, collaborate on projects, or just chat about the latest in **data science** and **AI**!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dimitriosath/ "Click to visit my LinkedIn profile")  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?style=flat&logo=About.me&logoColor=white)](https://www.datascienceportfol.io/dathanalyst "Click to visit my personal portfolio")  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-ff69b4?style=flat&logo=About.me&logoColor=white)](https://daththeanalyst.github.io/Portfolio-Dath/ "Click to visit my personal portfolio")  
 
 ---
 
