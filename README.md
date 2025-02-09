@@ -12,7 +12,7 @@ With a passion for uncovering insights through data, I specialize in leveraging 
 ### **Business Tools**  
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white) ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) ![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white) 
 ## 🎯 Goals  
-- My short-term goal is to pursue a **Master’s in Business Analytics** at a top-tier university, like Imperial College, to further hone my analytical and machine learning expertise.  
+- My short-term goal is to pursue a **Master’s in Business Analytics** at a top-tier university, like UCL, to further hone my analytical and machine learning expertise.  
 Long-term, I aspire to contribute to leading companies at the forefront of **AI-powered business solutions**, driving innovation and efficiency.
 ---
 ## 📬 Let’s Connect!  
