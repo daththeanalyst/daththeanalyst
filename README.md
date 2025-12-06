@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dimitris!
 Welcome to my profile! I’m a **Data Scientist** with a strong focus on **Machine Learning** and **Predictive Modelling**.
 
-I am currently pursuing an **MSc in Business Analytics** at the **UCL School of Management** (Graduating Sep 2026), having previously achieved **First Class Honours** in **Business Management (Data Analytics)** from the **University of Reading**.
+I am currently pursuing an **MSc in Business Analytics** at the **UCL School of Management** (Graduating Sep 2026) with an average grade of 82%, having previously achieved **First Class Honours** in **Business Management (Data Analytics)** from the **University of Reading**.
 
 Moving beyond traditional reporting, my passion lies in the **technical implementation** of data science. I specialise in applying statistical concepts and engineering robust solutions using **Python**, **R**, and **Databricks** to solve complex business problems. I am particularly interested in the intersection of **statistical theory** and **scalable engineering**, seeking to build models that drive tangible value.
 
