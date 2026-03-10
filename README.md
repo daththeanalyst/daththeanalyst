@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dimitrios (Dimo) Athinaios
+# 👋 Hi, I'm Dimitrios Athinaios 
 
 I'm a **Geospatial Data Scientist & AI Engineer** currently finishing my **MSc Business Analytics at UCL** (Distinction track, 75%) and on dissertation placement at **Intelmatix** in London. I hold a **First Class Honours** in BSc Business Management (Data Analytics) from **Henley Business School**.
 
