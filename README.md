@@ -86,7 +86,7 @@ I have my own architecture for local image generation using **NanoBanana2**, and
 
 ## 🎯 Currently
 
-- 📍 Dissertation placement @ **Intelmatix** — building a 1M+ POI spatial network with AWS serverless pipelines
+- 📍 Dissertation placement @ **Intelmatix** 
 - 🎓 MSc Business Analytics @ **UCL** — Distinction track
 - 🏗️ Shipping MVPs daily — startups, business websites, AI-powered tools
 - 🥋 Karate Black Belt (1-dan) & Kickboxing — because resilience is a practice
